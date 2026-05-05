@@ -1,1 +1,1 @@
-# meta-support-slovakia.github.io
+# metasupportsk.github.io
